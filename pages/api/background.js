@@ -29,30 +29,30 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
+                title: 'Onix-market',
+                role: 'Red Teamer',
+                url: 'https://onix-market.com/',
+                desc: 'Web application penetration testing.',
                 year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                location: 'Nyeri, Kenya'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
+                title: 'KEY libraries',
+                role: 'Web Developer',
                 url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                desc: 'As web , I learned how to use React & JavaScript to build interactive websites.',
+                year: '02/2024 - Present',
+                location: 'Nairobi, Kenya'
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'Attachee',
+                role: 'Developer',
+                url: 'no website',
+                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP",
+                year: '05/2020 - 07/2024',
+                location: 'Nakuru, Kenya'
             },
 
         ]
