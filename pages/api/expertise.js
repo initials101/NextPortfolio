@@ -2,18 +2,14 @@ const expertise = [
     {
         id: 0,
         title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients. On top of this am a ALX Fullstack Software Engineer. with good understanding of collaboration, teamwork,and working with deadlines',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Penetration Testing',
+        desc: "As a hacker, I'm proficient in Web application security methodologies. I use burpsuite, metasploit, wireshark, nmap and many other tools and custo scripts to simplify project management tasks like task assignment, prioritization, and progress tracking.  My expertise ensures high-quality software assesment and settings are delivered promptly.",
     },
-    {
-        id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
-    },
+    
     {
         id: 3,
         title: 'Github',
