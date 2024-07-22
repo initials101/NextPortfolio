@@ -1,6 +1,6 @@
 export const NAME = 'Dennis Muriithi';
 
-export const DESIGNATION = `Full Stack Engineer | Red Teamer | Field Hockey Athlete`;
+export const DESIGNATION = `Full Stack Engineer | Red Teamer | Student`;
 
 export const DETAILS = {
   Residence: 'Kenya',
