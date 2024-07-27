@@ -58,8 +58,8 @@ export const CONTACTS = {
   PHONE: '+254112395869',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/QuantumQ9',
+  GITHUB: 'https://github.com/coderINIT',
   LINKEDIN: 'https://www.linkedin.com/in/grayArch/',
-  TWITTER: 'https://twitter.com/alias__gray',
+  X: 'https://x.com/alias__gray',
   FACEBOOK: 'https://www.facebook.com/dennismuriithi',
 };
