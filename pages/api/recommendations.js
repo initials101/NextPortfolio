@@ -14,7 +14,7 @@ const recommendationCard = [
     image: "images/japheth.jpg",
     designation: 'Web Developper | Machine Learning Engineer | Python Developer',
     view: "I had the privilege of working alongside Dennis on multiple university projects, and I must say, his talent and work ethic truly stood out. Recently, we were both part of the dynamic team at JMM Technologies, where Dennis's professionalism and attention to detail shone brightly. I wholeheartedly endorse Dennis for any opportunity that calls for a highly skilled and dedicated individual.",
-    linkednURL: "https://www.linkedin.com/in/kiprono-japheth/"
+    linkednURL: "https://www.linkedin.com/in/kiprono-japhet/"
   },
   {
     id: 2,
