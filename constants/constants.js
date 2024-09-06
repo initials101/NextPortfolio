@@ -17,10 +17,7 @@ export const SKILLS = [
     title: 'React Developer',
     level: '69%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+ 
   {
     title: 'Backend Developer',
     level: '54%',
