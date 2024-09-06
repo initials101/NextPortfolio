@@ -58,8 +58,8 @@ export const CONTACTS = {
   PHONE: '+254112395869',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/coderINIT',
-  LINKEDIN: 'https://www.linkedin.com/in/grayArch/',
-  X: 'https://x.com/alias__gray',
+  GITHUB: 'https://github.com/forbidenid',
+  LINKEDIN: 'https://www.linkedin.com/in/forbiden_id/',
+  X: 'https://x.com/forbiden_id',
   FACEBOOK: 'https://www.facebook.com/dennismuriithi',
 };
