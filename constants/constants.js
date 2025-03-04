@@ -15,12 +15,12 @@ export const SKILLS = [
   },
   {
     title: 'React Developer',
-    level: '69%',
+    level: '70%',
   },
  
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '80%',
   },
   {
     title: 'Athlete Hockey',
@@ -56,7 +56,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/initials101',
-  LINKEDIN: 'https://www.linkedin.com/in/forbidenid/',
-  X: 'https://x.com/forbiden_id',
+  LINKEDIN: 'https://www.linkedin.com/in/initials101/',
+  X: 'https://x.com/initials101',
   FACEBOOK: 'https://www.facebook.com/dennismuriithi',
 };

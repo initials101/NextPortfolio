@@ -18,7 +18,7 @@ const background = [
            
             {
                 id: 2,
-                title: 'Karatina niversity',
+                title: 'Karatina University',
                 degree: 'Bachelor of science in information Technology',
                 detail: "Doing Bachelors Degree",
                 year: '2021-2025'
