@@ -13,13 +13,15 @@ const Footer = () => {
                     <span>2024 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.github.com/coderINIT' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Gray</span></a>
+                    <a href='https://www.github.com/initials101' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Gray</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">
-                        <MdMail />
+                        <AiOutlineWhatsApp />
                     </div>
-                    <div>muriithidennis340@gmail.com</div>
+                    <div>
+                        <a href='https://wa.me/254112395869' target="_blank" rel="noreferrer"><span className='font-bold'>Gray</span></a>
+                    </div>
                 </div>
             </div>
         </div>
