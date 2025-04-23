@@ -34,18 +34,16 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "PICKNEST",
-        url: "https://picknest.com/",
-        image: "projects/picknest.png",
+        projectName: "VMS",
+        url: "https://volunteers-management-system-frontend.vercel.app//",
+        image: "projects/vms.png",
         projectDetail: "PickNest is a modern online eCommerce platform designed to provide a seamless shopping experience. It allows users to browse, search, and purchase a wide range of products with ease. The system features user authentication, dynamic product listings, cart and checkout functionalities, and an intuitive user interface optimized for performance and usability.",
         technologiesUsed: [
             { tech: "ReactJS" },          // Frontend development
-            { tech: "Node.js" },          // Backend runtime
-            { tech: "Express.js" },       // Backend framework
-            { tech: "MongoDB" },          // NoSQL database
-            { tech: "Redux" },            // State management
+            { tech: "Flask" },       // Backend framework
+            { tech: "SQL" },          // NoSQL database
+            { tech: "REST APIs" },            // State management
             { tech: "TailwindCSS" },      // Styling
-            { tech: "Vite" }              // Frontend build tool
         ],
     },
 

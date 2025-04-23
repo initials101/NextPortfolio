@@ -33,7 +33,7 @@ const background = [
                 role: 'Red Teamer',
                 url: 'https://onix-market.com/',
                 desc: 'Web application penetration testing.',
-                year: '02/2023 - Present',
+                year: '02/2023 - 2024',
                 location: 'Nyeri, Kenya'
             },
             {
@@ -42,7 +42,7 @@ const background = [
                 role: 'Web Developer',
                 url: 'no website',
                 desc: 'As web , I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2024 - Present',
+                year: '02/2024 - 2025',
                 location: 'Nairobi, Kenya'
             },
             {
@@ -53,6 +53,15 @@ const background = [
                 desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP",
                 year: '05/2020 - 07/2024',
                 location: 'Nakuru, Kenya'
+            },
+            {
+                id: 4,
+                title: 'Web Developer',
+                role: 'fullstack developer',
+                url: 'https://medref-fy.vercel.app/',
+                desc: 'Developed a fullstack webApp for medicaal referral and appointment system',
+                year: '01/2025 - 05/2025',
+                location: 'Karatina, Kenya'
             },
 
         ]

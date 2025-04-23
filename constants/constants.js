@@ -1,30 +1,30 @@
 export const NAME = 'Dennis Muriithi';
 
-export const DESIGNATION = `Full Stack Engineer | Red Teamer | Student`;
+export const DESIGNATION = `Software Engineer | Red Teamer | Student | Backend Developer`;
 
 export const DETAILS = {
   Residence: 'Kenya',
   City: 'Nairobi',
-  Age: '21',
+  Age: '23',
 };
 
 export const SKILLS = [
   {
-    title: 'Penetration Tester',
+    title: 'Penetration Testing',
     level: '75%',
   },
   {
-    title: 'React Developer',
-    level: '70%',
+    title: 'Frontend Development',
+    level: '50%',
   },
  
   {
-    title: 'Backend Developer',
+    title: 'Backend Development',
     level: '80%',
   },
   {
-    title: 'Athlete Hockey',
-    level: '83%',
+    title: 'Containerization',
+    level: '70%',
   },
 ];
 
