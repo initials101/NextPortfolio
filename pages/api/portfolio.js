@@ -46,6 +46,18 @@ const portfolio = [
             { tech: "TailwindCSS" },      // Styling
         ],
     },
+    {
+        id: 4,
+        projectName: "LipaNa MpesaAPI",
+        url: "https://github.com/initials101/mpesaAPI",
+        image: "projects/api.png",
+        projectDetail: "This project is a robust Node.js backend designed to seamlessly integrate with the M-Pesa API, enabling secure and efficient mobile money transactions. It supports full payment automation and real-time transaction tracking, tailored for businesses that need fast, reliable financial operations.",
+        technologiesUsed: [
+            { tech:  "Nodejs" },
+            { tech: "mongoDB" },
+            { tech: "experssjs" },
+        ],
+    },
 
 ]
 export default function handler(req, res) {
