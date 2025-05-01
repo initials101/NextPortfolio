@@ -20,7 +20,7 @@ const background = [
                 id: 2,
                 title: 'Karatina University',
                 degree: 'Bachelor of science in information Technology',
-                detail: "Doing Bachelors Degree",
+                detail: "Bachelors Degree",
                 year: '2021-2025'
             },
         ]
@@ -61,6 +61,15 @@ const background = [
                 url: 'https://medref-fy.vercel.app/',
                 desc: 'Developed a fullstack webApp for medicaal referral and appointment system',
                 year: '01/2025 - 05/2025',
+                location: 'Karatina, Kenya'
+            },
+            {
+                id: 5,
+                title: 'Backend Developer',
+                role: 'API Development',
+                url: '',
+                desc: 'Creating a Lipa na mpesa stk Push using the daraja API',
+                year: '03/2025 - 05/2025',
                 location: 'Karatina, Kenya'
             },
 
