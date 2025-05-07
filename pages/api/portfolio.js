@@ -37,7 +37,7 @@ const portfolio = [
         projectName: "VMS",
         url: "https://volunteers-management-system-frontend.vercel.app//",
         image: "projects/vms.png",
-        projectDetail: "PickNest is a modern online eCommerce platform designed to provide a seamless shopping experience. It allows users to browse, search, and purchase a wide range of products with ease. The system features user authentication, dynamic product listings, cart and checkout functionalities, and an intuitive user interface optimized for performance and usability.",
+        projectDetail: "The Volunteers Management System is a web-based platform designed to streamline the recruitment, coordination, and management of volunteers for various events and initiatives.",
         technologiesUsed: [
             { tech: "ReactJS" },          // Frontend development
             { tech: "Flask" },       // Backend framework

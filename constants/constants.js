@@ -1,6 +1,6 @@
 export const NAME = 'Dennis Muriithi';
 
-export const DESIGNATION = `Software Engineer | Red Teamer | Student | Backend Developer`;
+export const DESIGNATION = `Software Engineer | Red Teamer | Freelancer | Backend Developer`;
 
 export const DETAILS = {
   Residence: 'Kenya',
@@ -11,11 +11,11 @@ export const DETAILS = {
 export const SKILLS = [
   {
     title: 'Penetration Testing',
-    level: '75%',
+    level: '90%',
   },
   {
     title: 'Frontend Development',
-    level: '50%',
+    level: '40%',
   },
  
   {
@@ -48,6 +48,7 @@ export const TECH_STACK = [
   'Frameworks for exploitation',
   'Packet analysis tools',
   'Web application security tools',
+  'Firewall IDS IPS',
 ];
 
 export const CONTACTS = {
@@ -58,5 +59,4 @@ export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/initials101',
   LINKEDIN: 'https://www.linkedin.com/in/initials101/',
   X: 'https://x.com/initials101',
-  FACEBOOK: 'https://www.facebook.com/dennismuriithi',
 };
