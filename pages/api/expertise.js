@@ -7,7 +7,7 @@ const expertise = [
     {
         id: 1,
         title: 'Penetration Testing',
-        desc: "As an Ethical hacker, I'm proficient in Web application security methodologies. I use burpsuite, metasploit, wireshark, nmap and many other tools and custo scripts to simplify project management tasks like task assignment, prioritization, and progress tracking.  My expertise ensures high-quality software assesment and settings are delivered promptly.",
+        desc: "As an Ethical hacker, I'm proficient in Web application security methodologies. I use burpsuite, metasploit, wireshark, nmap and many other tools and custom scripts to simplify project management tasks like task assignment, prioritization, and progress tracking.  My expertise ensures high-quality software assesment and settings are delivered promptly.",
     },
     
     {

@@ -4,7 +4,7 @@ export const DESIGNATION = `Software Engineer | Red Teamer | Freelancer | Backen
 
 export const DETAILS = {
   Residence: 'Kenya',
-  City: 'Nairobi',
+  City: 'Meru',
   Age: '23',
 };
 

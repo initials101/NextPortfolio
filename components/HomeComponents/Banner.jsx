@@ -18,7 +18,7 @@ const Banner = () => {
                                         <span className="inline-block">
                                             <Typewriter
                                                 options={{
-                                                    strings: ['Full stack Engineer', 'Red Teamer'],
+                                                    strings: [' Backend Engineer', 'Red Teamer'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}

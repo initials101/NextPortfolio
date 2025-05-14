@@ -12,7 +12,7 @@ const background = [
                 id: 1,
                 title: 'ALX Africa',
                 degree: 'Full Stack Software Engineering',
-                detail: "Backend Engineer.",
+                detail: "With Backend Engineering specialization.",
                 year: '2023-2025'
             },
            
@@ -20,7 +20,7 @@ const background = [
                 id: 2,
                 title: 'Karatina University',
                 degree: 'Bachelor of science in information Technology',
-                detail: "Bachelors Degree",
+                detail: "Bachelors Degree, Programming Major",
                 year: '2021-2025'
             },
         ]
@@ -67,7 +67,7 @@ const background = [
                 id: 5,
                 title: 'Backend Developer',
                 role: 'API Development',
-                url: '',
+                url: 'https://github.com/initials101/mpesaAPI.git',
                 desc: 'Creating a Lipa na mpesa stk Push using the daraja API',
                 year: '03/2025 - 05/2025',
                 location: 'Karatina, Kenya'
